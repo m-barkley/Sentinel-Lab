@@ -9,7 +9,7 @@ In this lab, I successfully set up Azure Sentinel, a Security Information and Ev
 <br />
 <br />
 
-<img src="https://i.imgur.com/UtIAqAf.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img src="https://i.imgur.com/iapl6YC.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 
 </p>
